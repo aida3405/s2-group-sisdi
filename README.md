@@ -1,4 +1,4 @@
-# s2-group-ssdi · Section 1 · Group SSDI
+# s2-group-sisdi · Section 1 · Group SSDI
 Live: https://s2-group-ssdi.web.app 
 
 | Matric | Role | Shop | Feature | Branch | Folder |
